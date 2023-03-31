@@ -17,3 +17,6 @@ My : [1, 3]
 name : [1, 2]
 ```
 <h2>Week - 2</h2>
+a. How many words are there in the given text file
+
+Sample text file
