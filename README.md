@@ -19,4 +19,13 @@ name : [1, 2]
 <h2>Week - 2</h2>
 a. How many words are there in the given text file
 
-Sample text file
+Sample text file : 
+```notepad
+this is a sample text
+from the nlp lab
+```
+Output :
+```notepad
+Enter file name / Path : Sample.txt
+9
+```
